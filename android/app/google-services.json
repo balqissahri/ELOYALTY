@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27698521771",
+    "project_id": "eloyalty2",
+    "storage_bucket": "eloyalty2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27698521771:android:770aaf1c146297cf0039ee",
+        "android_client_info": {
+          "package_name": "com.balqis.eloyalty2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27698521771-aptg33trmqncstmrj2in4oh3fr4nst96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FYLvUt4LG4NPqVISzMMajHUJM0NZVmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27698521771-aptg33trmqncstmrj2in4oh3fr4nst96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
