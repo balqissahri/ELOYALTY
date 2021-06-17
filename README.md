@@ -1,6 +1,6 @@
 # eloyalty2
 
-Final Year Project 
+A card management mobile application that help shopaholics to manage their membership cards by digitalizing the physical cards
 
 ## Getting Started
 
